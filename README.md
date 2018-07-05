@@ -1,5 +1,9 @@
 # 7 segment 4 digit display for Arduino Uno Rev3
 
+
+
+---
+
 ### Parts used:
 
 | Quantity | Part name                             |
